@@ -1,4 +1,6 @@
-To run with a verilog gate level script
+This is a Verilog visualizer that displays the gate-level logic of a Verilog combinational script. 
+
+To run with a Verilog gate-level script
 
 python3 Thesis.py G library input-file
 example: python3 Thesis.py G mylib.genlib f2-aig-gate.v
